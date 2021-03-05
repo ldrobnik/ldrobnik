@@ -6,7 +6,7 @@ My name is Łukasz, and I write things.
 
 I’m a fiction writer. To learn more, you can:
 
-- read [samples of my fiction](https://ldrobnik.github.io/fiction-samples/)
+- read [samples of my work](https://ldrobnik.github.io/fiction-samples/)
 - visit my [official website](https://drobnik.co/)
 - preorder [*Nocturine*](http://fathombooks.org/html/drobnik.html), a prose collection forthcoming from Fathom Books
 - read a press release about [*Vostok*](https://www.marketpressrelease.com/Author-Lukasz-Drobnik-signs-with-Vraeyda-Literary-for-Novel-Vostok-1613688161.html), a novel forthcoming from Vræyda Literary
@@ -19,7 +19,7 @@ I’m currently taking a postgraduate [technical communication course](https://w
 ### Web development
 
 I’m also into web development. Here’s a bunch of my projects:
-- [my official website as a writer](https://github.com/ldrobnik/drobnik-writing)
+- my [official writing website](https://github.com/ldrobnik/drobnik-writing)
 - an [upcoming literary magazine](https://github.com/ldrobnik/blyski) featuring flash fiction
 - a [website advertising my translation services](https://github.com/ldrobnik/medical-translations)
 - a simple [tool to search through the NASA Exoplanet Archive](https://github.com/ldrobnik/exoplanets)
