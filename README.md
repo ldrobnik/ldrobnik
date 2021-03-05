@@ -2,7 +2,7 @@
 
 My name is Łukasz, and I write things.
 
-#### Fiction
+### Fiction
 
 I’m a fiction writer. To learn more, you can:
 
@@ -11,12 +11,12 @@ I’m a fiction writer. To learn more, you can:
 - preorder [*Nocturine*](http://fathombooks.org/html/drobnik.html), a prose collection forthcoming from Fathom Books
 - read a press release about [*Vostok*](https://www.marketpressrelease.com/Author-Lukasz-Drobnik-signs-with-Vraeyda-Literary-for-Novel-Vostok-1613688161.html), a novel forthcoming from Vræyda Literary
 
-#### Technical writing
+### Technical writing
 
 I’m currently taking a postgraduate [technical communication course](https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna) at Vistula University in Warsaw. If you want to read a sample of my technical writing:
 - take a look at my [introduction to basic technical communication tools](https://ldrobnik.github.io/tech-comm-tools/)
 
-#### Web development
+### Web development
 
 I’m also into web development. Here’s a bunch of my projects:
 - [my official website as a writer](https://github.com/ldrobnik/drobnik-writing)
@@ -25,7 +25,7 @@ I’m also into web development. Here’s a bunch of my projects:
 - a simple [tool to search through the NASA Exoplanet Archive](https://github.com/ldrobnik/exoplanets)
 - a website advertising [English-teaching and translation services](https://github.com/ldrobnik/angielski-w-psychologii)
 
-#### Contact
+### Contact
 
 You can reach through:
 - email: drobniklukasz [at] gmail [dot] com
