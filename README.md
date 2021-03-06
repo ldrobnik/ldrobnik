@@ -5,9 +5,8 @@ My name is Łukasz, and I write things.
 ### Fiction
 
 I’m a fiction writer. To learn more, you can:
-
-- read [samples of my work](https://ldrobnik.github.io/fiction-samples/)
 - visit my [official website](https://drobnik.co/)
+- read [samples of my work](https://ldrobnik.github.io/fiction-samples/)
 - preorder [*Nocturine*](http://fathombooks.org/html/drobnik.html), a prose collection forthcoming from Fathom Books
 - read a press release about [*Vostok*](https://www.marketpressrelease.com/Author-Lukasz-Drobnik-signs-with-Vraeyda-Literary-for-Novel-Vostok-1613688161.html), a novel forthcoming from Vræyda Literary
 
