@@ -27,5 +27,5 @@ I’m also into web development. Here’s a bunch of my projects:
 ### Contact
 
 You can reach me through:
-- email: drobniklukasz [at] gmail [dot] com
-- Twitter: [@drobnik](https://twitter.com/drobnik)
+- email at drobniklukasz [at] gmail [dot] com
+- Twitter [@drobnik](https://twitter.com/drobnik)
