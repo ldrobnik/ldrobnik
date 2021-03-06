@@ -12,8 +12,8 @@ I’m a fiction writer. To learn more, you can:
 
 ### Technical writing
 
-I’m currently taking a postgraduate [technical communication course](https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna) at Vistula University in Warsaw. If you want to read a sample of my technical writing:
-- take a look at my [introduction to basic technical communication tools](https://ldrobnik.github.io/tech-comm-tools/)
+I’m currently taking a postgraduate [technical communication course](https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna) at Vistula University in Warsaw.
+- Please take a look at a [sample of my technical writing](https://ldrobnik.github.io/tech-comm-tools/)
 
 ### Web development
 
