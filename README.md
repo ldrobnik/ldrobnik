@@ -14,7 +14,7 @@ I’m a fiction writer. To learn more, you can:
 
 I’m currently taking a postgraduate [technical communication course](https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna) at Vistula University in Warsaw.
 You can take a look at samples of my technical writing:
-- [a DITA-based guide on preparing documention written in DITA for localization](https://ldrobnik.github.io/prepare-dita-for-l10n).
+- [a DITA-based guide on preparing documentation written in DITA for localization](https://ldrobnik.github.io/prepare-dita-for-l10n).
 - [a Markdown-based guide on basic technical communication tools](https://ldrobnik.github.io/tech-comm-tools/)
 
 ### Web development
