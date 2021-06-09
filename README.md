@@ -23,8 +23,6 @@ I’m also into web development. Here’s a bunch of my projects:
 - My [official writing website](https://github.com/ldrobnik/drobnik-writing)
 - An [upcoming literary magazine](https://github.com/ldrobnik/blyski) featuring flash fiction
 - A [website advertising my translation services](https://github.com/ldrobnik/medical-translations)
-- A simple [tool to search through the NASA Exoplanet Archive](https://github.com/ldrobnik/exoplanets)
-- A website advertising [English-teaching and translation services for psychologists](https://github.com/ldrobnik/angielski-w-psychologii)
 
 ### Contact
 
