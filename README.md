@@ -21,7 +21,7 @@ You can take a look at samples of my technical writing:
 
 I’m also into web development. Here’s a bunch of my projects:
 - My [official writing website](https://github.com/ldrobnik/drobnik-writing)
-- An [upcoming literary magazine](https://github.com/ldrobnik/blyski) featuring flash fiction
+- A [literary magazine](https://github.com/ldrobnik/blyski) featuring flash fiction
 - A [website advertising my translation services](https://github.com/ldrobnik/medical-translations)
 
 ### Contact
