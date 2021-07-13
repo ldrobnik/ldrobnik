@@ -1,10 +1,18 @@
 ### Hi there
 
-My name is Łukasz, and I write things.
+My name is Łukasz, and I’m into web dev and fiction writing.
+
+
+### Web development
+
+I work primarily in React. Here’s a bunch of my projects:
+- [Official writing website](https://github.com/ldrobnik/drobnik-writing)
+- [Literary magazine](https://github.com/ldrobnik/blyski) featuring flash fiction
+- [Website advertising my translation services](https://github.com/ldrobnik/medical-translations)
 
 ### Fiction
 
-I’m a fiction writer. To learn more, you can:
+I’m also a fiction writer. To learn more, you can:
 - Visit my [official website](https://drobnik.co/)
 - Read [samples of my work](https://ldrobnik.github.io/fiction-samples/)
 - Pre-order [*Nocturine*](http://fathombooks.org/html/drobnik.html), a prose collection forthcoming from Fathom Books
@@ -16,13 +24,6 @@ I’ve recently finished a postgraduate [technical communication course](https:/
 You can take a look at samples of my technical writing:
 - [A DITA-based guide on preparing documentation written in DITA for localization](https://prepare-dita-for-l10n.netlify.app/)
 - [A Markdown-based guide on basic technical communication tools, built with Docusaurus](https://tech-comm-tools.netlify.app/)
-
-### Web development
-
-I’m also into web development. Here’s a bunch of my projects:
-- My [official writing website](https://github.com/ldrobnik/drobnik-writing)
-- A [literary magazine](https://github.com/ldrobnik/blyski) featuring flash fiction
-- A [website advertising my translation services](https://github.com/ldrobnik/medical-translations)
 
 ### Contact
 
