@@ -6,7 +6,7 @@ My name is Łukasz, and I’m into web dev and fiction writing.
 ### Web development
 
 I work primarily in React. Here’s a bunch of my projects:
-- [Official writing website](https://github.com/ldrobnik/drobnik-writing)
+- [My official writing website](https://github.com/ldrobnik/drobnik-writing)
 - [Literary magazine](https://github.com/ldrobnik/blyski) featuring flash fiction
 - [Website advertising my translation services](https://github.com/ldrobnik/medical-translations)
 
