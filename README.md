@@ -1,6 +1,6 @@
 ### Hi there
 
-My name is Łukasz, and I’m into web dev and fiction writing.
+My name is Łukasz, and I’m into web dev and writing (of fiction and technical documentation).
 
 
 ### Web development
