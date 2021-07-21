@@ -9,6 +9,8 @@ I work primarily in React. Here’s a bunch of my projects:
 - [My official writing website](https://github.com/ldrobnik/drobnik-writing)
 - [Literary magazine](https://github.com/ldrobnik/blyski) featuring flash fiction
 - [Website advertising my translation services](https://github.com/ldrobnik/medical-translations)
+- [Tool to search NASA exoplanet archive](https://github.com/ldrobnik/exoplanets) (an older project I’m currently reworking)
+- [Website advertising English-teaching services for psychologists](https://github.com/ldrobnik/angielski-w-psychologii)
 
 ### Fiction
 
