@@ -24,7 +24,7 @@ I’m also a fiction writer. To learn more, you can:
 
 I’ve recently finished a postgraduate [technical communication course](https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna) at Vistula University in Warsaw.
 You can take a look at samples of my technical writing:
-- [A DITA-based guide on preparing documentation written in DITA for localization](https://prepare-dita-for-l10n.netlify.app/)
+- [A DITA-based guide to preparing DITA content for localization](https://prepare-dita-for-l10n.netlify.app/)
 - [A Markdown-based guide on basic technical communication tools, built with Docusaurus](https://tech-comm-tools.netlify.app/)
 
 ### Contact
