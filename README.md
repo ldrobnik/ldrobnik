@@ -17,8 +17,8 @@ I work primarily in React. Here’s a bunch of my projects:
 I’m also a fiction writer. To learn more, you can:
 - Visit my [official website](https://drobnik.co/)
 - Read [samples of my work](https://drobnik.co/texts/)
+- Order [*Vostok*](https://www.vraeydamedia.ca/shop/x55ht1b0h70i3bwv9qismih2f6b5nk), a novel published by Vræyda Literary
 - Pre-order [*Nocturine*](http://fathombooks.org/html/drobnik.html), a prose collection forthcoming from Fathom Books
-- Pre-order [*Vostok*](https://www.vraeydamedia.ca/shop/x55ht1b0h70i3bwv9qismih2f6b5nk), a novel forthcoming from Vræyda Literary
 
 ### Technical writing
 
