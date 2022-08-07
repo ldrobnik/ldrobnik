@@ -1,6 +1,6 @@
 ### Hi there
 
-My name is Łukasz, and I’m a technical and fiction writer. In my spare time, I code web apps.
+My name is Łukasz, and I’m a technical and fiction writer. In my spare time, I develop web apps.
 
 ### Technical writing
 
@@ -9,6 +9,7 @@ You can take a look at samples of my technical writing:
 - [DITA-based guide to preparing DITA content for localization](https://prepare-dita-for-l10n.netlify.app/)
 - [Markdown-based guide on useful tools for entry-level technical writers, built with Docusaurus](https://tech-comm-tools.netlify.app/)
 - [Introduction to Markdown for creative writers](https://drobnik.co/blog/markdown-for-creative-writers)
+- [UX copy and other content for my author website](https://drobnik.co/)
 
 ### Web development
 
