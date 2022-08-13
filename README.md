@@ -16,7 +16,7 @@ You can take a look at samples of my technical writing:
 Most of my projects are React apps. Here’s a selection:
 - [My official writing website](https://github.com/ldrobnik/drobnik-writing)
 - [Literary magazine](https://github.com/ldrobnik/blyski) I set up to popularise flash fiction in Poland
-- [Website advertising my translation services](https://github.com/ldrobnik/medical-translations)
+- [Website advertising translation services](https://github.com/ldrobnik/medical-translations)
 - [Tool to search the NASA exoplanet archive](https://github.com/ldrobnik/exoplanets) (an older project I’m currently reworking)
 - [Website advertising English-teaching services for psychologists](https://github.com/ldrobnik/angielski-w-psychologii)
 
