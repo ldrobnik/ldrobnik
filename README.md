@@ -22,7 +22,7 @@ You can take a look at samples of my technical writing:
 
 ### Fiction
 
-When tech stuff bores me, I also create fictional worlds. To learn more, you can:
+When tech stuff bores me, I create fictional worlds. To learn more, you can:
 - Visit my [official website](https://drobnik.co/)
 - Read [samples of my work](https://drobnik.co/texts/)
 - Order [*Vostok*](https://www.vraeydamedia.ca/shop/x55ht1b0h70i3bwv9qismih2f6b5nk), a novel published in 2021 by Vræyda Literary
