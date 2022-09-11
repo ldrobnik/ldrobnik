@@ -4,7 +4,7 @@ My name is Łukasz, and I’m a technical and fiction writer. In my spare time, 
 
 ### Web development projects
 
-Most of my projects are React-based apps. Here’s a selection:
+Most of my web projects are React-based apps. Here’s a selection:
 - [My official writing website](https://github.com/ldrobnik/drobnik-writing)
 - [Literary magazine](https://github.com/ldrobnik/blyski) I set up to popularise flash fiction in Poland
 - [Website advertising translation services](https://github.com/ldrobnik/medical-translations)
