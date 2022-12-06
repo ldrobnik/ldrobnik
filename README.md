@@ -13,7 +13,7 @@ Most of my web projects are React-based apps. Here’s a selection:
 
 ### Technical writing
 
-I work as a junior technical writer at [TWi](https://technicallywriteit.com/). In 2021, I finished a postgraduate [technical communication course](https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna) at Vistula University in Warsaw.
+I work as a junior technical writer / JS developer at [CKSource](https://cksource.com/). In 2021, I finished a postgraduate [technical communication course](https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna) at Vistula University in Warsaw.
 You can take a look at samples of my technical writing:
 - [Markdown-based guide to selected technical communication tools, built with Docusaurus](https://tech-comm-starter-pack.netlify.app/)
 - [DITA-based guide to preparing DITA content for localization](https://prepare-dita-for-l10n.netlify.app/)
