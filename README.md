@@ -7,7 +7,7 @@ My name is Łukasz, and I’m a junior software engineer / technical writer at [
 Here are some links in case you want to learn more about what I do:
 - [My official writing website](https://drobnik.co/)
 - [A literary magazine](https://blyski.org/) I set up to popularise flash fiction in Poland
-- [My blog on literary and tech topics](https://drobnik.co/blog/)
+- [My blog on literary and techy topics](https://drobnik.co/blog/)
 - [My LinkedIn profile](https://www.linkedin.com/in/lukasz-drobnik/)
 
 ### Contact
