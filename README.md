@@ -9,10 +9,10 @@ Here are some links in case you want to learn more about what I do:
 - [A literary magazine](https://blyski.org/) I set up to popularise flash fiction in Poland
 - [My blog on literary and techy topics](https://drobnik.co/blog/)
 - [An introduction into select technical communication tools](https://tech-comm-starter-pack.netlify.app/)
-- [My LinkedIn profile](https://www.linkedin.com/in/lukasz-drobnik/)
 
 ### Contact
 
 You can reach me through:
 - Email at drobniklukasz [at] gmail [dot] com
+- LinkedIn [@lukasz-drobnik](https://www.linkedin.com/in/lukasz-drobnik/)
 - Twitter [@drobnik](https://twitter.com/drobnik)
