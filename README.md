@@ -1,6 +1,6 @@
 ### Hi there
 
-My name is Łukasz, and I’m a junior software developer / technical writer at [CKSource](https://cksource.com/). In my spare time, I write fiction.
+My name is Łukasz, and I’m a technical writer at [ChartMogul](https://chartmogul.com). In my spare time, I write fiction.
 
 ### Some links
 
