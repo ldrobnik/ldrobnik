@@ -8,7 +8,7 @@ Here are some links in case you want to learn more about what I do:
 - [My official writing website](https://drobnik.co/)
 - [A literary magazine](https://blyski.org/) I set up to popularise flash fiction in Poland
 - [My blog on literary and techy topics](https://drobnik.co/blog/)
-- [An introduction to select technical communication tools](https://tech-comm-starter-pack.netlify.app/)
+- [An article about customer lists I wrote for the ChartMogul Help Center](https://help.chartmogul.com/hc/en-us/articles/360002876199)
 
 ### Contact
 
