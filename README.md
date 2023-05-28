@@ -5,7 +5,8 @@ My name is Łukasz, and I’m a technical writer at [ChartMogul](https://chartmo
 ### Some links
 
 Here are some links in case you want to learn more about what I do:
-- [One of my articles in ChartMogul Help Center](https://help.chartmogul.com/hc/en-us/articles/360002876199)
+- [My article on ChartMogul Customer Lists](https://help.chartmogul.com/hc/en-us/articles/360002876199)
+- [My article on creating a ChartMogul account](https://help.chartmogul.com/hc/en-us/articles/203231682)
 - [My official writing website](https://drobnik.co/)
 - [A literary magazine I set up, featuring flash fiction in Polish translation](https://blyski.org/)
 
