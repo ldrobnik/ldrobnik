@@ -15,4 +15,4 @@ Here are some links in case you want to learn more about what I do:
 You can reach me through:
 - Email at drobniklukasz [at] gmail [dot] com
 - LinkedIn [@lukasz-drobnik](https://www.linkedin.com/in/lukasz-drobnik/)
-- Twitter [@drobnik](https://twitter.com/drobnik)
+- Bluesky [@drobnik](https://bsky.app/profile/drobnik.bsky.social)
