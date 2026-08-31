@@ -17,4 +17,4 @@ Here are samples of my technical writing:
 You can reach me through:
 - Email at drobniklukasz [at] gmail [dot] com
 - LinkedIn [@lukasz-drobnik](https://www.linkedin.com/in/lukasz-drobnik/)
-- Bluesky [@drobnik](https://bsky.app/profile/drobnik.co)
+- Bluesky [@drobnik.co](https://bsky.app/profile/drobnik.co)
